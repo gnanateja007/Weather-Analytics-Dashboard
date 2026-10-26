@@ -1,0 +1,8 @@
+openmeteo-requests
+requests-cache
+retry-requests
+requests
+pandas
+numpy
+PyQt5
+matplotlib
